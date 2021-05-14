@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+li{
+    font-family:sans-serif;
+}
+
+section{
+    width: 1000px;
+    margin: 20px auto;
+    box-sizing: border-box;
+}
+
+.TITULO{
+    text-align: center;
+    color: black;
+    Font-size: 55px;
+    font-family:fantasy;
+    margin: 20px 0px 0px 0px; }
+
+.titulo_tabla{
+    text-align:center;
+    Font-size:50px;
+    color:white;
+    background-color:#264C75;
+    font-family:fantasy;
+}
+
+
+.subtitulo{
+     font-family: fantasy;
+     font-size: 40px;
+     color:#035951;
+}
+
+h4{
+    
+    font-family: fantasy;
+    font-size: 40px;
+    color:#658C88;
+}
+
+h5{
+    font-family: fantasy;
+    font-size: 40px;
+    color:#F2958D;
+}
+
+h7{ font-family: fantasy;
+    font-size: 40px;
+    color:#668C4A;
+}
+
+h8{
+    font-family: fantasy;
+    font-size: 40px;
+    color:#3EB595 ;
+}
+
+h9{ 
+    font-family: fantasy;
+    font-size: 40px;
+    color:#34495E;
+}
+
+h10{
+    font-family: fantasy;
+    font-size: 40px;
+    color:#8E44AD;
+}
+
+h11{
+     font-family: fantasy;
+    font-size: 40px;
+    color:#616A6B ;
+}
+
+h12{
+    font-family: fantasy;
+    font-size: 40px;
+    color:#035951;
+}
+
+h13{
+    font-family: fantasy;
+    font-size: 40px;
+    color:#812F33;}
+
+p1{
+    text-align:justify;
+    font-family: fantasy;
+    font-size: 40px;
+    color:#F2958D;
+}
+
+
+.logo{
+    color: white;
+    font-size: 25;
+}
+
+p2{
+    font-size: 40px;
+    font-family: fantasy;
+    color: #021140;
+}
+
+p3{  
+    font-size:40px;
+    font-family: fantasy;
+    color:#BF846F;
+    
+}
+
+.nav{
+    color:white;
+}
+
+table, th, td{
+    text-align: center;
+    border: 3px solid black;
+    border-collapse: collapse;
+    
+}
+
+th,td{
+    padding: 15px; 
+}
+
+.ll{
+    background-color: #8596A6;
+    color: white;
+    
+}
+
+.style="witdth"{
+    text-align: center;
+}
+
+
